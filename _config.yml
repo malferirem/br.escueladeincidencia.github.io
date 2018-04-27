@@ -10,7 +10,7 @@ title: Escuela de Incidencia
 email: hola@escueladeincidencia.org
 description: Entregamos herramientas para cambiar el mundo. Conoce La Escuela de Incidencia de Ciudadano Inteligente
 keywords: incidencia, sociedad civil, capacitación, organización, activismo, liderazgo, jóvenes, latinoamérica, democracia, medioambiente, diversidad sexual, género, transparencia
-baseurl: '//escueladeincidencia.org' #"//ciudadanointeligente/escueladeincidencia.github.io"
+baseurl: '//br.escueladeincidencia.org' #"//ciudadanointeligente/br.escueladeincidencia.github.io"
 basedomain: escueladeincidencia.org
 twitter_username: ciudadanoi
 github_username:  ciudadanointeligente
