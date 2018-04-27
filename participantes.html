@@ -1,0 +1,162 @@
+---
+layout: default
+---
+<section class="filters">
+  <div class="container">
+    <img src="/assets/img/bar.svg">
+    <h2>Participantes Escuela de Incidencia</h2>
+    <p class="highlight">Conoce a las personas que son parte de la Escuela de Incidencia y están catalizando procesos de cambio social.</p>
+    <p class="highlight">Te invitamos a ver los perfiles de cada participante haciendo uso de nuestros filtros por generación, país y temáticas.</p>
+    <div class="button-group filters-button-group">
+      <p class="bajada">Filtra participantes por año</p>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="2017">2017</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="2018">2018</button>
+    </div>
+    <div class="button-group filters-button-group">
+      <p class="bajada">Filtra participantes por país</p>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Bolivia">Bolivia</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Colombia">Colombia</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Ecuador">Ecuador</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Guatemala">Guatemala</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Perú">Perú</button>
+    </div>
+    <div class="button-group filters-button-group">
+      <p class="bajada">Filtra participantes por área de trabajo</p>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Ciudad" > Ciudad</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Comunicaciones" > Comunicaciones</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Democracia" > Democracia</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Diversidad Sexual" > Diversidad Sexual</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Discapacidad" > Discapacidad</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Derechos de la Niñez" > Derechos de la Niñez</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="DDHH" > DDHH</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Educación" > Educación</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Exclusión Social" > Exclusión Social</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Formación Ciudadana" > Formación Ciudadana</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Género" > Género</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Gobierno Abierto" > Gobierno Abierto</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Interculturalidad" > Interculturalidad</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Juventudes" > Juventudes</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Justicia" > Justicia</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Medio Ambiente" > Medio Ambiente</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Memoria Colectiva" > Memoria Colectiva</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Participación Ciudadana" > Participación Ciudadana</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Pobreza" > Pobreza</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Política" > Política</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Salud" > Salud</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Seguridad Pública" > Seguridad Pública</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Sustentabilidad" > Sustentabilidad</button>
+      <button type="button" class="btn btn-primary btn-sm" data-filter="Transparencia" > Transparencia </button>
+      <br>
+      <br>
+      <button type="button" class="btn btn-warning btn-sm pull-right" data-filter="todo">Limpiar búsqueda</button>
+    </div>
+  </div>
+</section>
+
+<section class="profiles">
+  <div class="container">
+    <div id="no-data">
+
+    </div>
+    <div class="card-columns">
+      {% assign participantes = site.data.participantes[2017] | concat: site.data.participantes[2018]  %}
+      {% for p in participantes %}
+        {% for e in p.equipo %}
+          <div class="card grid-item {{ e.country }} {{ e.tag0 }} {{ e.tag1 }} {{ e.tag2 }} {{ e.tag3 }} {{ e.tag4 }} {{ e.tag5 }} {{ e.tag6 }} {{ e.tag7 }} {{ e.tag7 }} {{ e.tag8 }} {{ e.tag9 }} {{ e.tag10 }} {{ e.tag11 }} {{ e.tag12 }} {{ e.tag13 }} {{ e.tag14 }} {{ e.tag15 }}"
+            data-category="{{ e.country }}">
+            <img src="{{ site.baseurl }}{{ e.image }}" alt="{{ e.name }} - {{ e.organization }}" class="card-img-top img-fluid">
+              <div class="card-block">
+                <div class="perfil-info">
+                  <h4>{{ e.country }} - {{ e.tag0 }}</h4>
+                  <h3>{{ e.name }}</h3>
+                  <div class="persona-org">
+                    <h4>{{ e.organization }} - {{ e.position }}</h4>
+                  </div>
+                  <p class="bio">{{ e.bio }}</p>
+                  <span class="badge badge-primary">{{ e.tag1 }}</span>
+                  <span class="badge badge-danger">{{ e.tag2 }}</span>
+                  <span class="badge badge-warning">{{ e.tag3 }}</span>
+                  <span class="badge badge-primary">{{ e.tag4 }}</span>
+                  <span class="badge badge-danger">{{ e.tag5 }}</span>
+                  <span class="badge badge-warning">{{ e.tag6 }}</span>
+                  <span class="badge badge-primary">{{ e.tag7 }}</span>
+                  <span class="badge badge-danger">{{ e.tag8 }}</span>
+                  <span class="badge badge-warning">{{ e.tag9 }}</span>
+                  <span class="badge badge-primary">{{ e.tag10 }}</span>
+                  <span class="badge badge-danger">{{ e.tag11 }}</span>
+                  <span class="badge badge-warning">{{ e.tag12 }}</span>
+                  <span class="badge badge-primary">{{ e.tag13 }}</span>
+                  <span class="badge badge-danger">{{ e.tag14 }}</span>
+                  <span class="badge badge-warning">{{ e.tag15 }}</span>
+                </div>
+              </div>
+          </div>
+        {% endfor %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<script>
+  $( document ).ready( function() {
+    var filters = []
+    $('.filters-button-group').on( 'click', 'button', function() {
+      var filterValue = $( this ).attr('data-filter');
+      index = filters.indexOf(filterValue)
+      if (index > -1) {
+        filters.splice(index, 1);
+      } else {
+        filters.push(filterValue)
+      }
+      if (filterValue == 'todo') {
+        $('#no-data').text('');
+        filters = [];
+        $('.grid-item').each( function( i,  GridItem) {
+            $( this ).addClass('is-visible');
+            $( this ).show();
+        });
+      }else {
+        $('.grid-item').each( function( i,  GridItem) {
+          var participante = $( this );
+          counter = 0;
+          filters.forEach(function(element) {
+              if (!participante.hasClass(element)) {
+                counter += 1;
+              }
+          });
+          if (counter == 0){
+            $( this ).addClass('is-visible');
+            $( this ).show();
+          } else {
+            $( this ).removeClass('is-visible');
+            $( this ).hide();
+          }
+        });
+
+        if ($('.is-visible').length == 0) {
+          $('#no-data').text('No hay participantes para las categorías selecionadas');
+        }else{
+          $('#no-data').text('');
+        }
+      }
+    });
+
+    $('.button-group').each( function( i, buttonGroup ) {
+      var $buttonGroup = $( buttonGroup );
+      $buttonGroup.on( 'click', 'button', function() {
+        if ($( this ).hasClass('is-checked')) {
+            $( this ).removeClass('is-checked');
+        } else {
+          $( this ).addClass('is-checked');
+        }
+        var filterValue = $( this ).attr('data-filter');
+        if (filterValue == 'todo') {
+          $('button').each( function( i,  GridItem) {
+              $( this ).removeClass('is-checked');
+          });
+        }
+      });
+    });
+
+  });
+</script>

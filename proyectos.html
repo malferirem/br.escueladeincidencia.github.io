@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<link rel="stylesheet" type="text/css" href="/assets/css/default.css" />
+<link rel="stylesheet" type="text/css" href="/assets/css/component.css" />
+<script src="js/modernizr.custom.js"></script>
+
+<section class="cases">
+	<div class="container">
+		<img src="/assets/img/bar.svg">
+		<h2>Proyectos</h2>
+		<p class="highlight">Conoce los proyectos que se han desarrollado gracias a la Escuela de Incidencia.</p>
+			<ul id="og-grid" class="og-grid">
+				{% for card in site.repocards reversed %}
+				<li>
+					<a href="" data-largesrc="{{card.imagemax}}" data-country="{{card.country}}" data-title="{{card.title}}" data-theme="{{card.theme}}" data-description="{{card.content}}" data-person="{{card.person}}" data-facilitator="{{card.facilitator}}" data-occupation="{{card.occupation}}" class="btn btn-white">
+						<div class="tarjeta-main">
+							<img src="{{card.imagemin}}" alt="{{card.title}}" class="img-responsive">
+							<div class="tarjeta">
+								{% include projectcards.html %}
+								<div class="btn btn-warning btn-arrow text-center btn-sm"><span>Leer más</span></div>
+            	</div>
+						</div>
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+	</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="js/grid.js"></script>
+	<script>
+		$(function() {
+			Grid.init();
+		});
+	</script>
+</section>

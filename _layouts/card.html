@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% assign card = page %}
+<section class="header photo">
+<div>
+    <div class="container-photo2" style="background-image:url({{card.photo}})"></div>
+    <div class="header-intro">
+      <div class="container">
+        <div class="row">
+	         <div class="col-md-8">
+		           <h1>{{card.title}}</h1>
+	         </div>
+	         <div class="col-md-4">
+		           <div class="panel panel-default">
+		               {% assign card = page %}
+		               {% include projectcards.html%}
+		           </div>
+	        </div>
+        </div>
+      </div>
+    </div>
+</div>
+</section>

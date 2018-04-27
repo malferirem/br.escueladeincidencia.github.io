@@ -1,0 +1,10 @@
+<span class="badge badge-primary">{{card.country}}</span>
+<h4>{{card.title}}</h4>
+{% if card.city %}<label><i class="fa fa-map-marker" aria-hidden="true"></i>
+ Ciudad de implementación:</label> {{card.city}}</p>{% endif %}
+<label><i class="fa fa-heart" aria-hidden="true"></i>
+ Tema:</label> {{card.theme}}</p>
+<label><i class="fa fa-calendar" aria-hidden="true"></i>
+ Fechas:</label> {{card.period}}</p>
+{% if card.problem %}<label><i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+ Problema público a resolver:</label> {{card.problem}}</p>{% endif %}
