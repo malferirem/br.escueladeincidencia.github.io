@@ -2,16 +2,16 @@
 layout: card
 imagemin: ../assets/img/casos/14-min.jpg
 imagemax: ../assets/img/casos/14-max.jpg
-title: Nutriendo a la Ciudadana
+title: Nutrindo a Cidadania
 country: Perú
 city:
-theme: Ciudadanía y Nutrición
-period: Julio de 2017 hasta noviembre de 2017
-problem: La deficiente educación alimentaria e información nutricional implica una violación de los derechos de los consumidores de alimentos procesados, teniendo un efecto negativo en la salud de estos
-facilitator: Proyecto guiado por Jessica Huamán
+theme: Cidadania e Nutrição
+period: Julho de 2017 a novembro de 2017
+problem: A deficiente educação alimentar e informação nutricional implica uma violação dos direitos dos consumidores de alimentos processados, tendo um efeito negativo na saúde destes alimentos.
+facilitator: Projeto guiado por Jessica Huamán
 occupation: Presidenta - Nutriedúcate Perú
 person: ../img/14-person.jpg
 ribbon: true
 ---
 
-Como consecuencia del LabCivico desarrollado por Nutriedúcate Perú se generó una estrategia para implementar un espacio de construcción colectiva que le de a la ciudadanía la oportunidad de elaborar metas para la reducción de la malnutrición en su localidad. Nutriendo a la Ciudadanía es una iniciativa que surge como respuesta a este problema y que busca legitimar la participación de la ciudadanía en defensa de una alimentación nutritiva y saludable en Perú. En primera instancia se desarrolló un taller en el que se establecieron metas para la reducción de la malnutrición en Lima metropolitana. Además, se realizó un experimento social audiovisual que llegó a 15,000 personas. A partir del taller y del alcance del video, surgieron 9 metas que serán incorporadas en los Acuerdos de Gobernabilidad a suscribirse en 2018 por las candidaturas a la alcaldía de Lima.
+Como resultado do LabCivico desenvolvido pela Nutriedúcate Peru, foi gerada uma estratégia para implementar um espaço de construção coletiva que dá aos cidadãos a oportunidade de desenvolver metas para a redução da desnutrição em sua localidade. Nutriendo a la Ciudadanía é uma iniciativa que surge como resposta a este problema e busca legitimar a participação dos cidadãos na defesa de uma alimentação nutritiva e saudável no Peru. Em um primeiro momento, foi desenvolvido um workshop em que foram estabelecidas metas para a redução da desnutrição na região metropolitana de Lima. Além disso, foi realizado um experimento social audiovisual que atingiu 15 mil pessoas. A partir do workshop e do escopo do vídeo, surgiram 9 metas que serão incorporadas aos Acordos de Governabilidade a serem assinados em 2018 pelas candidaturas ao prefeito de Lima.
