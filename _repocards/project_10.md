@@ -2,16 +2,16 @@
 layout: card
 imagemin: ../assets/img/casos/10-min.jpg
 imagemax: ../assets/img/casos/10-max.jpg
-title: Fuerza comunitaria
+title: Força comunitária
 country: Perú
 city: Chiclayo
-theme: Fuerza comunitaria
-period: Julio de 2017 hasta Noviembre de 2017
-problem: La elaboración inadecuada de los Planes de Desarrollo Concertado impide su eficiencia como mecanismo de incidencia ciudadana y afecta la participación en el departamento de Lambayeque
-facilitator: Proyecto guiado por Jorge Luis Vallejo
-occupation: Docente y Coordinador Norte - Instituto de Estudios Social Cristianos
+theme: Força comunitária
+period: Julho de 2017 a Novembro de 2017
+problem: A elaboração inadequada dos Planos de Desenvolvimento Concertado impede sua eficiência como mecanismo de incidência cidadã e afeta a participação no departamento de Lambayeque.
+facilitator: Projeto guiado por Jorge Luis Vallejo
+occupation: Docente e Coordenador Norte - Instituto de Estudios Social Cristianos
 person: ../img/10-person.jpg
 ribbon: true
 ---
 
-El proyecto Fuerza Comunitaria surge a raíz del LabCívico realizado en Chiclayo, con el propósito ayudar a la ciudadanía a entender y utilizar diferentes herramientas de incidencia pública disponibles que no son utilizadas de manera eficiente. Su objetivo es empoderar a dirigentes locales para que conozcan y utilicen de modo más óptimo las herramientas de gestión pública existentes, tales como los Planes de Desarrollo Concertado (PDC). Al cierre de la Escuela de Incidencia, este proyecto ha realizado dos talleres de capacitación a dirigentes locales sobre la importancia de la planificación estratégica y de los PDC. Además, se presentó el Plan 2018, que busca impulsar el trabajo de voluntarixs universitarixs que ayuden a difundir estas herramientas de gestión pública a más comunidades.
+O projeto Fuerza Comunitaria surge como resultado do LabCívico realizado em Chiclayo, com o objetivo de ajudar os cidadãos a entender e usar diferentes ferramentas de incidência pública disponíveis que não são utilizadas de forma eficiente. Seu objetivo é capacitar os líderes locais para conhecer e utilizar de forma mais otimizada as ferramentas existentes de gestão pública, como os Planos de Desenvolvimento Concertados (PDC). No final da Escola de Advocacia, este projeto realizou dois workshops de treinamento para líderes locais sobre a importância do planejamento estratégico e do PDC. Além disso, foi apresentado o Plano 2018, que visa promover o trabalho de voluntários universitários que ajudem a disseminar essas ferramentas de gestão pública para mais comunidades.
