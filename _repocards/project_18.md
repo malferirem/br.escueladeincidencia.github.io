@@ -2,17 +2,17 @@
 layout: card
 imagemin: ../assets/img/casos/18-min.jpg
 imagemax: ../assets/img/casos/18-max.jpg
-title: Escuela de Liderazgo Político y Activismo Social para los Jóvenes de la Amazonía ecuatoriana
-country: Ecuador
+title: Escola de Liderança Política e Ativismo Social para Jovens da Amazônia Equatoriana
+country: Equador
 city: Pastaza
-theme: Participación de jóvenes en la construcción de políticas públicas en la provincia de Pastaza
-period: Agosto de 2017 hasta noviembre de 2017
-problem: La baja incidencia y participación de organizaciones jóvenes y jóvenes en general en la construcción de políticas públicas de la provincia de Pastaza.
-facilitator: Proyecto guiado por André Granda
-occupation: Maestrante en Políticas Públicas - FLACSO
+theme: Participação de jovens na construção de políticas públicas na província de Pastaza
+period: Agosto de 2017 a noviembre de 2017
+problem: A baixa incidência e participação de organizações jovens e jovens em geral na construção de políticas públicas na província de Pastaza.
+facilitator: Projeto guiado por André Granda
+occupation: Mestrando em Políticas Públicas - FLACSO
 person: ../img/17-person.jpg
 ribbon: true
 ---
 
-El LabCívico Pastaza se realizó para atender la baja participación de jóvenes en la política ecuatoriana. Como resultado surgió la Escuela de Liderazgo Político y Activismo Social, cuyo objetivo es generar un espacio que fomente la formación y participación de jóvenes para el fortalecimiento democrático, construyendo soluciones colectivas a los principales problemas sociales de la provincia. A la fecha un equipo de 15 jóvenes ha recibido capacitaciones mensuales en temas de fortalecimiento democrático en la provincia de Pastaza. El equipo ha realizado proyectos de activismo social dirigidos principalmente a niños y niñas en situación de vulnerabilidad en comunidades indígenas de la Amazonía. Todo esto ha sido fruto de un trabajo coordinado entre la academia, el gobierno local y voluntarios de diferentes organizaciones de la sociedad civil que trabajan en el tema de juventudes.
+O Pastaza LabCívico foi realizado para abordar a baixa participação de jovens na política equatoriana. Como resultado, surgiu a Escola de Liderança Política e Ativismo Social, cujo objetivo é criar um espaço que estimule a formação e participação dos jovens para o fortalecimento democrático, construindo soluções coletivas para os principais problemas sociais da província. Até o momento, uma equipe de 15 jovens recebeu treinamento mensal sobre questões de fortalecimento democrático na província de Pastaza. A equipe realizou projetos de ativismo social voltados principalmente para crianças em situação de vulnerabilidade em comunidades indígenas da Amazônia. Tudo isso foi o resultado de um trabalho coordenado entre a academia, o governo local e voluntários de diferentes organizações da sociedade civil que trabalham em questões da juventude.
   
