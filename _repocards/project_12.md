@@ -2,16 +2,16 @@
 layout: card
 imagemin: ../assets/img/casos/12-min.jpg
 imagemax: ../assets/img/casos/12-max.jpg
-title: "Jóvenes y Ambiente: Legitimemos la participación"
+title: "Juventude e meio ambiente: Legitimando a participação"
 country: Perú
 city:
-theme: La participación de las juventudes peruanas en la toma de decisiones en el sector ambiental
-period: Julio de 2017 hasta noviembre de 2017
-problem: La participación juvenil en la formulación y aplicación de acuerdos y políticas vinculadas al sector ambiental en el Perú es limitada debido a los pocos canales de incidencia política existentes, lo que incrementa la vulnerabilidad de los jóvenes y genera medidas poco representativas
-facilitator: Proyecto guiado por Patricia Alata
-occupation: Coordinadora de proyectos - Lima Cómo Vamos
+theme: A participação da juventude peruana na tomada de decisões no setor ambiental
+period: Julho de 2017 a novembro de 2017
+problem: A participação dos jovens na formulação e aplicação de acordos e políticas relacionados ao setor ambiental no Peru é limitada devido aos poucos canais existentes de incidência política, o que aumenta a vulnerabilidade dos jovens e gera medidas não representativas
+facilitator: Projetto guiado por Patricia Alata
+occupation: Coordenadora de projetos - Lima Cómo Vamos
 person: ../img/12-person.jpg
 ribbon: true
 ---
 
-A partir del LabCívico "Jóvenes y Ambiente: legitimemos la participación" se obtuvo como objetivo al 2021 que al menos 3 organizaciones juveniles por región reciban capacitación en incidencia, entre otras metas. Para lograr esto, uno de los primeros pasos fue la realización de un foro de incidencia que contó con la participación de más de 300 jóvenes, a quienes se les dieron a conocer diferentes procesos e instrumentos de participación que pueden aplicar en su día a día, instancia en la que además se alinearon experiencias de trabajo entre diferentes organizaciones de jóvenes. Como consecuencia de este foro, el Secretario de la Juventud se comprometió a recibir una hoja de ruta sobre cómo fomentar los espacios de participación juvenil en el sistema de gestión ambiental, lo cual será trabajado con el Ministerio del Ambiente.
+Do LabCívico "Juventude e Meio Ambiente: legitimar participação" foi o objetivo em 2021 de que pelo menos três organizações juvenis por região recebessem treinamento em advocacy, entre outros objetivos. Para isso, um dos primeiros passos foi a realização de um fórum de advocacy com a participação de mais de 300 jovens, que foram apresentados a diferentes processos e instrumentos de participação que podem ser aplicados no seu dia-a-dia. exemplo em que experiências de trabalho também foram alinhadas entre diferentes organizações juvenis. Como conseqüência deste fórum, a Secretaria da Juventude comprometeu-se a receber um roteiro sobre como incentivar espaços para a participação dos jovens no sistema de gestão ambiental, que será trabalhado com o Ministério do Meio Ambiente.
