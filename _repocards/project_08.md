@@ -2,16 +2,16 @@
 layout: card
 imagemin: ../assets/img/casos/08-min.jpg
 imagemax: ../assets/img/casos/08-max.jpg
-title: Espacios Públicos en la Municipalidad de Ate-Vitarte
+title: Espaços Públicos na Municipalidade de Ate-Vitarte
 country: Perú
 city: Lima
-theme: Espacios Públicos
-period: Junio de 2017 a Noviembre de 2017
-problem: Precariedad de un marco legal urbanístico contribuye a generar políticas deficientes en torno a los espacios públicos en Barranco
-facilitator: Proyecto guiado por Andrés Devoto
-occupation: Promotor / Asistente de Investigación - Colectivo DespiertaLima / Contribuyentes por Respeto
+theme: Espaços Públicos
+period: Junho de 2017 a Novembro de 2017
+problem: Precariedade de um marco legal urbano contribui para gerar políticas precárias em espaços públicos do Barranco
+facilitator: Projeto conduzido por Andrés Devoto
+occupation: Promotor / Assistente de Investigaçãn - Colectivo DespiertaLima / Contribuyentes por Respeto
 person: ../img/08-person.jpg
 ribbon: true
 ---
 
-El proyecto de Espacios Públicos en el municipio de Ate-Vitarte surge a partir del LabCivico, como propuesta para lograr tener recursos humanos capacitados para sostener políticas integrales en torno al espacio público. El objetivo de este proyecto es establecer un sistema de evaluación y capacitación municipal para funcionarios públicos en temas de espacio público, con el fin de elaborar un informe situacional que mida las brechas entre las ordenanzas del distrito y los conocimientos de la función pública sobre ellas. Al cierre de la EdI 2017 existe un convenio firmado con la Municipalidad de Ate-Vitarte, en la ciudad de Lima, para implementar allí la evaluación y capacitación de los funcionarios. La meta a futuro es ampliar el tratamiento de este problema a otros municipios de Lima metropolitana.
+O projeto de Espaços Públicos no município de Ate-Vitarte surge a partir do LabCivico, como uma proposta para conseguir recursos humanos treinados para sustentar políticas integrais em torno do espaço público. O objetivo deste projeto é estabelecer um sistema de avaliação municipal e treinamento para funcionários públicos em questões de espaço público, a fim de preparar um relatório situacional que mede as lacunas entre as ordenanças do distrito e o conhecimento da função pública sobre elas. No encerramento da EIO 2017, há um acordo assinado com a Prefeitura de Ate-Vitarte, na cidade de Lima, para implementar a avaliação e treinamento dos funcionários de lá. O objetivo futuro é estender o tratamento desse problema para outros municípios da região metropolitana de Lima.
