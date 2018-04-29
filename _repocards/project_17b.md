@@ -2,17 +2,17 @@
 layout: card
 imagemin: ../assets/img/casos/default-min.jpg
 imagemax: ../assets/img/casos/default-max.jpg
-title: Erradicación de la violencia contra la mujer
+title: Erradicação da violência contra as mulheres
 country: Perú
 city: 
-theme: Violencia contra la mujer en rondas urbanas de Cajamarca
-period: Junio de 2017 a noviembre de 2017.
-problem: La cultura machista predominante en la región  de Cajamarca, justifica y naturaliza la violencia contra la mujer en espacios como las rondas urbanas.
-facilitator: Proyecto guiado por Mirtha Vásquez
-occupation: Directora Ejecutiva - GRUFIDES
+theme: Violência contra a mulher em rondas urbanas em Cajamarca
+period: Junho de 2017 a novembro de 2017.
+problem: A cultura machista predominante na região de Cajamarca justifica e naturaliza a violência contra as mulheres em espaços como as rondas urbanas.
+facilitator: Projeto guiado por Mirtha Vásquez
+occupation: Diretora Executiva - GRUFIDES
 person: ../img/17b-person.jpg
 ribbon: true
 ---
 
-En la región de Cajamarca, Perú, predomina una cultura machista que justifica y naturaliza la violencia contra la mujer en espacios públicos, tal como son las rondas urbanas de castigo. Para enfrentar este problema, en el LabCívico se planteó la visualización en la agenda pública de este problema como primer paso hacia una solución, haciendo un llamado a las autoridades a que cumplan con su rol y a que regulen su accionar. Con este fin, se elaboró un artículo que fue difundido en periódicos para posicionar el tema. Al mismo tiempo, mediante una conferencia de prensa y entrevistas en diversos medios se dio a conocer esta problemática tanto a la ciudadanía como a las autoridades con competencias en el tema. Como resultado de esta intervención, ambos autoridades y las rondas urbanas se han comprometido a implementar espacios de discusión sobre la erradicación de la violencia de género.
+Na região de Cajamarca, no Peru, predomina a cultura machista que justifica e naturaliza a violência contra a mulher em espaços públicos, como as rodadas urbanas de castigo. Para enfrentar este problema, no LabCívico a visualização na agenda pública deste problema foi considerada como o primeiro passo para uma solução, convidando as autoridades a cumprir seu papel e a regular suas ações. Para tanto, foi produzido um artigo que foi divulgado em jornais para posicionar a questão. Ao mesmo tempo, através de uma conferência de imprensa e entrevistas em vários meios de comunicação, esta questão foi dada a conhecer ao público e às autoridades com competência no assunto. Como resultado dessa intervenção, tanto as autoridades quanto as rodadas urbanas se comprometeram a implementar espaços de discussão sobre a erradicação da violência de gênero.
  
