@@ -2,16 +2,16 @@
 layout: card
 imagemin: ../assets/img/casos/15-min.jpg
 imagemax: ../assets/img/casos/15-max.jpg
-title: Observatorio de Gobierno Abierto
-country: Bolivia
+title: Observatório de Governo Aberto
+country: Bolívia
 city: La Paz
-theme: Desafíos para la implementación de Gobierno Abierto como modelo de Gestión Pública en ámbitos locales
-period: Julio de 2017 hasta noviembre de 2017
-problem: Existe poca colaboración entre la ciudadanía y el Gobierno Autónomo Municipal de La Paz para la construcción conjunta de políticas públicas
-facilitator: Proyecto guiado por Atenas Vargas
-occupation: Directora de Economía - RESABIS
+theme: Desafios para a implementação do Governo Aberto como modelo de Gestão Pública em áreas locais
+period: Julho de 2017 a novembro de 2017
+problem: Há pouca colaboração entre os cidadãos e o Governo Municipal Autônomo de La Paz para a construção conjunta de políticas públicas
+facilitator: Projeto guiado por Atenas Vargas
+occupation: Diretora de Economia - RESABIS
 person: ../img/15-person.jpg
 ribbon: true
 ---
 
-Ante la poca colaboración entre la ciudadanía y el Gobierno Autónomo Municipal de La Paz (GAMLP) para la construcción conjunta de políticas públicas, surge la necesidad de articular a organizaciones y activistas que promuevan el trabajo colaborativo. Tras el LabCívico Gobierno Abierto en La Paz se conformó el Observatorio de Gobierno Abierto La Paz, que desarrolla diversas herramientas educativas para incentivar y sensibilizar sobre temáticas de Gobierno Abierto. La capacitación de funcionarixs municipales,  quienes participaron de 3 talleres de formación y recibieron material informativo,  fue el principal foco del observatorio estos meses. Además, el equipo del observatorio fue invitado a sumarse al Concejo Ciudadano de Ética y Transparencia del GAMLP, logrando así instalar el tema en la agenda pública y llegar a más personas y organizaciones de la sociedad civil.
+Dada a falta de colaboração entre os cidadãos e o Governo Municipal Autônomo de La Paz (GAMLP) para a construção conjunta de políticas públicas, há a necessidade de articular organizações e ativistas que promovam o trabalho colaborativo. Após o Laboratório do Laboratório do Governo Aberto em La Paz, foi criado o Observatório do Governo Aberto de La Paz, que desenvolve várias ferramentas educacionais para incentivar e conscientizar sobre questões do Governo Aberto. A capacitação de funcionários municipais, que participaram de três oficinas de capacitação e receberam material informativo, foi o foco principal do observatório nesses meses. Além disso, a equipe do observatório foi convidada a participar do Conselho de Cidadania de Ética e Transparência do GAMLP, podendo, assim, instalar a questão na agenda pública e alcançar mais pessoas e organizações da sociedade civil.
