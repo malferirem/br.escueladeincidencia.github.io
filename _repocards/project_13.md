@@ -2,16 +2,16 @@
 layout: card
 imagemin: ../assets/img/casos/13-min.jpg
 imagemax: ../assets/img/casos/13-max.jpg
-title: Ingenieros Sin Fronteras Perú
+title: Engenheiros sem Fronteiras Perú
 country: Perú
 city:
-theme: La participación de los ingenieros en proyectos con enfoque de desarrollo humano
-period: Julio de 2017 hasta noviembre de 2017
-problem: La baja participación de los ingenieros en la creación y ejecución de proyectos con enfoque de desarrollo humano en el Perú genera pocos proyectos pensados en satisfacer las necesidades de las personas, ampliando la brecha de la desigualdad
-facilitator: Proyecto guiado por Gonzalo Alarcón
-occupation: Coordinador de Proyectos - Grupo Limonta
+theme: A participação de engenheiros em projetos com foco no desenvolvimento humano
+period: Julho de 2017 até novembro de 2017
+problem: A baixa participação de engenheiros na criação e execução de projetos com foco no desenvolvimento humano no Peru gera poucos projetos destinados a atender às necessidades das pessoas, ampliando o desnível de desigualdade.
+facilitator: Projeto guiado por Gonzalo Alarcón
+occupation: Coordenador de Projetos - Grupo Limonta
 person: ../img/13-person.jpg
 ribbon: true
 ---
 
-El proyecto Ingenieros Sin Fronteras surge a raíz del análisis realizado en el LabCivico “Ingenieros por el Cambio Social”, en donde se diagnosticó que lxs ingenierxs participan en pocos proyectos con enfoque de desarrollo humano en el Perú. Este proyecto se centró en la elaboración e implementación de un curso interdisciplinario donde estudiantes entran en contacto con necesidades sociales reales e interiorizan el impacto que puede tener su carrera en la calidad de vida de las personas. A noviembre de 2017 el proyecto ha logrado conformar de manera legal la organización “Ingenieros Sin Fronteras Perú”, además de elaborar la propuesta de un curso sobre proyectos con enfoque de desarrollo en la Facultad de Ingeniería en la Universidad Católica del Perú. El curso diseñado se comenzará a impartir a partir del próximo semestre universitario. 
+O projeto Engenheiros sem Fronteiras surge a partir da análise realizada no LabCivico "Engenheiros para a Mudança Social", onde foi diagnosticado que os engenheiros participam de poucos projetos com foco no desenvolvimento humano no Peru. Este projeto centrou-se no desenvolvimento e implementação de um curso interdisciplinar onde os alunos entram em contacto com necessidades sociais reais e internalizam o impacto que a sua carreira pode ter na qualidade de vida das pessoas. Até novembro de 2017, o projeto conseguiu estabelecer legalmente a organização "Engenheiros Sem Fronteiras Peru", além de preparar a proposta de um curso sobre projetos com foco em desenvolvimento na Faculdade de Engenharia da Universidade Católica do Peru. O curso projetado começará a ser ministrado a partir da próxima universidade do semestre.
