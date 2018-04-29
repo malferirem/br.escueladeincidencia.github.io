@@ -2,16 +2,16 @@
 layout: card
 imagemin: ../assets/img/casos/22-min.jpg
 imagemax: ../assets/img/casos/22-max.jpg
-title: Laboratorio Cívico  LGBTI
-country: Ecuador
+title: Laboratório Cívico  LGBTI
+country: Equador
 city: Quito
-theme: Nudos Críticos de las Poblaciones LGBTI
-period: Septiembre 2017 hasta noviembre de 2017
-problem: Después de 20 años de despenalizada la homosexualidad en Ecuador, la violencia hacia las personas LGBTI  no es reconocida por la sociedad y el estado, por lo que no existe un marco jurídico que proteja de forma directa, y como sujetos de derecho, a la comunidad LGBTI.
-facilitator: Proyecto guiado por Danilo Manzano
-occupation: Coordinador de iniciativas juveniles - Fundación Esquel
+theme: Nós Críticos das Populações LGBTI
+period: Setembro 2017 a novembro de 2017
+problem: Depois de 20 anos de homossexualidade descriminalizada no Equador, a violência contra pessoas LGBTI não é reconhecida pela sociedade e pelo Estado. Não há um marco legal que proteja diretamente, e como sujeitos de direito, a comunidade LGBTI
+facilitator: Projeto guiado por Danilo Manzano
+occupation: Coordenador de iniciativas jóvens - Fundación Esquel
 person: ../img/21-person.jpg
 ribbon: true
 ---
 
-Ante la falta de un marco jurídico que proteja a las personas LGBTI de la violencia en Ecuador, durante el LabCívico LGBTI, se identificó la necesidad de articular a la comunidad para potenciar su trabajo. Se convocó a activistas y organizaciones LGBTI para identificar necesidades, desafíos y posibles soluciones a problemas enfrentados. En este encuentro se generaron acuerdos colaborativos que han permitido unir y activar agendas de trabajo, así como incidir en la capacidad formativa de nuevos activismos e incluir la formación feminista dentro de los procesos de capacitación por la lucha de DDHH y LGBTI. Tras este proceso se han elaborado metas a corto, mediano y largo plazo enfatizando la creación de espacios de encuentro y reconocimiento de luchas comunes que permitan consolidar y mantener articulado al movimiento. 
+Na ausência de um marco legal que proteja as pessoas LGBTI da violência no Equador, durante o Laboratório LGBTI, foi identificada a necessidade de articular a comunidade para aprimorar seu trabalho. Ativistas e organizações LGBTI foram convocados para identificar necessidades, desafios e possíveis soluções para os problemas enfrentados. Nessa reunião, foram gerados acordos de colaboração que permitiram a adesão e ativação de agendas de trabalho, além de influenciar a capacidade formativa de novos ativismos e incluir a formação feminista nos processos de formação para a luta dos Direitos Humanos e LGBTI. Após este processo, foram elaboradas metas de curto, médio e longo prazo, enfatizando a criação de espaços de encontro e o reconhecimento de lutas comuns que permitam consolidar e manter o movimento.
