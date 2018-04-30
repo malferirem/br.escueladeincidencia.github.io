@@ -193,7 +193,7 @@
         tag5: "Meio Ambiente"
         tag6: "Gênero"
         uid: "ecuador-8"
-  - pais: Perú
+  - pais: "Perú"
     equipo:
       - name: "Andrés Devoto"
         country: "Perú"
@@ -286,7 +286,7 @@
         tag6: "Dados Abertos"
         uid: "peru-8"
 2018:
-  - pais: Colômbia
+  - pais: "Colômbia"
     equipo:
     - name: "Erik Ciprian"
       country: "Colômbia"
@@ -381,7 +381,7 @@
       country: "Colômbia"
       organization: "Corporación Otraparte"
       position: "Assistente de Direçãon"
-      bio: "Sou uma gestora cultural e ativista. Trabalho para a Corporação Otraparte, coordeno a Cidade segunda-feira em Medellín e participo de diferentes movimentos de cidadãos como "Não Matarás" e "Ciudadanos por el Aire", construindo espaços de interlocução entre cidadãos e governo. "
+      bio: 'Sou uma gestora cultural e ativista. Trabalho para a Corporação Otraparte, coordeno a Cidade segunda-feira em Medellín e participo de diferentes movimentos de cidadãos como "Não Matarás" e "Ciudadanos por el Aire", construindo espaços de interlocução entre cidadãos e governo.'
       image: "/assets/img/personas/c-maira-duque.png"
       tag0: "2018"
       tag1: "Cidade"
@@ -527,7 +527,7 @@
     - name: "Juan David Martínez"
       country: "Equador"
       organization: "Observatório de Direitos e Justiça"
-      position: "Coordenador de Monitoramento e Investigação
+      position: "Coordenador de Monitoramento e Investigação"
       bio: "Cientista político que às vezes prefere ser um ilustrador. Eu acredito no trabalho e as mudanças vêm depois dele. Leitor, amigo de xícaras de café, flores e varandas."
       image: "/assets/img/personas/e-juan-martinez.png"
       tag0: "2018"
